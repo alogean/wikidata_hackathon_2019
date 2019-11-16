@@ -3,4 +3,7 @@ Repository used to manage information and code created during the wikidata hacka
 
 https://github.com/WikidataZurichMeetup/meetup-1
 
+Cristina Sarasua (Uni Zurich)
+Ilario Valdelli
+
 
