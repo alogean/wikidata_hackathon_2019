@@ -6,7 +6,8 @@ https://www.wikidata.org/wiki/Wikidata:Events/Wikidata_Zurich_Hackathon2019
 - Ilario Valdelli
 ## Idea
 ### Corpedia
-We build a portal about companies. There are around 300'000 companies in Wikipedia/Wikidata. 
+We build a portal about companies. 
+There are around 300'000 companies in Wikipedia/Wikidata.
 
 ### Wiki-Sense
 
