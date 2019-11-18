@@ -15,5 +15,9 @@ There are around 300'000 companies in Wikipedia/Wikidata.
 
 ### Critical Infrastructures
 
-### 
+### Team
+
+- Antoine Logean
+- Sen Fu
+- Tobias Bröckl
 
