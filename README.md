@@ -8,6 +8,7 @@ https://www.wikidata.org/wiki/Wikidata:Events/Wikidata_Zurich_Hackathon2019
 ### Corpedia
 We build a portal about companies. 
 There are around 300'000 companies in Wikipedia/Wikidata.
+see here https://www.wikidata.org/wiki/Wikidata:WikiProject_Companies
 
 ### Wiki-Sense
 
