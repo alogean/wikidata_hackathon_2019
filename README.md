@@ -4,11 +4,16 @@
 https://www.wikidata.org/wiki/Wikidata:Events/Wikidata_Zurich_Hackathon2019
 - Cristina Sarasua (Uni Zurich)
 - Ilario Valdelli
-## Idea
-### Corpedia
+
+## Corpedia
 We build a portal about companies. 
 There are around 300'000 companies in Wikipedia/Wikidata.
 see here https://www.wikidata.org/wiki/Wikidata:WikiProject_Companies
+
+how to use a python bot
+https://github.com/opendatazurich/wikidata-training/blob/master/Wikidata%20-%20Create%20a%20new%20bot.ipynb
+
+## Other ideas
 
 ### Wiki-Sense
 
@@ -16,5 +21,5 @@ see here https://www.wikidata.org/wiki/Wikidata:WikiProject_Companies
 
 ### Critical Infrastructures
 
-### 
+### Cyber Loss Modeling 
 
